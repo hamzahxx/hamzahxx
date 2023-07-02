@@ -8,7 +8,7 @@
 
 - 👨‍💻 Some of my projects are available at [projectHamzah](https://hamzahxx.github.io/projectHamzah)
 
-- 💬 Ask me about **Bootstrap, git, HTML, CSS**
+- 💬 Ask me about **Bootstrap, HTML, CSS and git(Version Control)**
 
 - 📫 You can reach me using mail at **hamzahchhapra@gmail.com**
 
