@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamzah Chhapra</h1>
 <h3 align="center">A passionate frontend web developer who enjoys designing and developing</h3>
 
-- 🔭 I’m currently working on **my first react web app**
+- 🔭 I’m currently working on **my practice react web apps**
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **react basics**
 
 - 👨‍💻 Some of my projects are available at [https://hamzahxx.github.io](https://hamzahxx.github.io)
 
