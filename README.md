@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hamzah Chhapra</h1>
 <h3 align="center">A passionate frontend web developer who enjoys designing and developing</h3>
 
-- 🔭 I’m currently working on **my practice react web apps**
+- 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **react basics**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 Some of my projects are available at [https://hamzahxx.github.io](https://hamzahxx.github.io)
 
-- 💬 Ask me about **javascrip, bootstrap, html, css, git, github,**
+- 💬 Ask me about **javascrip, bootstrap, html, css, git, github**
 
-- ⚡ Fun fact **I will bore you to death**
+- ⚡ Fun fact **I will bore you to death with random science stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
