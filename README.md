@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamzah Chhapra</h1>
-<h3 align="center">A passionate frontend web developer who enjoys designing and developing</h3>
+<h3 align="center">A software developer who enjoys designing and developing</h3>
 
 - 🔭 I’m currently working on **nothing**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **javascrip, bootstrap, html, css, git, github**
 
-- ⚡ Fun fact **I will bore you to death with random science stuff**
+- ⚡ Fun fact **I will bore you to death with random did you know facts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
