@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hamzah Chhapra</h1>
 <h3 align="center">A software developer who enjoys designing and developing</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **nothing specific**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Full Snack**
 
 - 👨‍💻 Some of my projects are available at [https://hamzahxx.github.io](https://hamzahxx.github.io)
 
-- 💬 Ask me about **javascrip, bootstrap, html, css, git, github**
+- 💬 Ask me about **javascript, c++, web**
 
 - ⚡ Fun fact **I will bore you to death with random did you know facts**
 
